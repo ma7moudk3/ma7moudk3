@@ -16,18 +16,18 @@ He is happy to help you out with completing your products and can apply the expe
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ma7moudk3&theme=onedark" />
 
 ### 💫 Languages and skills:
-✧ SDKs: Dart, Java, Android SDK
-✧ Provider StateManagment
-✧ Bloc StateManagment
-✧ Getx StateManagment
-✧ Rest API
-✧ Dio Package
-✧ Resposive Flutter UI
-✧ Firebase FireStore
-✧ RealTime Database (Firebase)
-✧ DATABASES: SQLite, MySQL
-✧ UX interactive prototyping
-✧ UI final graphic design production
+✧ SDKs: Dart, Java, Android SDK <br/>
+✧ Provider StateManagment <br/>
+✧ Bloc StateManagment <br/>
+✧ Getx StateManagment <br/>
+✧ Rest API <br/>
+✧ Dio Package <br/>
+✧ Resposive Flutter UI <br/>
+✧ Firebase FireStore <br/>
+✧ RealTime Database (Firebase) <br/>
+✧ DATABASES: SQLite, MySQL <br/>
+✧ UX interactive prototyping <br/> 
+✧ UI final graphic design production <br/>
 
 <!--
 **ma7moudk3/ma7moudk3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
