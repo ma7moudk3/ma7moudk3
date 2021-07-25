@@ -1,6 +1,7 @@
 ### Hi there Im Mahmoud 👋
 
-<p><a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/41232970/116540063-56fe7200-a8f2-11eb-83cb-a7537363da94.gif"><img src="https://cdn.dribbble.com/users/962321/screenshots/2788167/gif_13.gif" alt="Header" title="Header" style="max-width:100%;"></a></p>
+<p><a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/41232970/116540063-56fe7200-a8f2-11eb-83cb-a7537363da94.gif">
+  <img align="center" src="https://cdn.dribbble.com/users/962321/screenshots/2788167/gif_13.gif" alt="Header" title="Header" style="max-width:100%;"></a></p>
 
 <br/><br/>
 
@@ -12,7 +13,6 @@ He is happy to help you out with completing your products and can apply the expe
 # ✨ Github State
 <br/>
   <img align="center" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ma7moudk3&theme=onedark" />
-<br/>
   <img align="center" alt="https://github-readme-stats.vercel.app/api/top-langs/?username=ma7moudk3&theme=onedark" />
 
 
