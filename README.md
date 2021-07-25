@@ -11,12 +11,9 @@ Mahmoud, flutter developerwith two years of experience, can analyze, design, and
 He is happy to help you out with completing your products and can apply the expertise I got to the following commercial projects, If you need a sleek cross-platform mobile app for both Android and iOS, invite him for an interview!
 </p>
 <br/><br/>
-<details>
-  <summary>:zap: GitHub Stats</summary>
+## ✨ Github State
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
-
-</details>
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ma7moudk3&theme=onedark" />
 
 <!--
 **ma7moudk3/ma7moudk3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
