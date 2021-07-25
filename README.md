@@ -11,8 +11,10 @@ He is happy to help you out with completing your products and can apply the expe
 <br/><br/>
 # ✨ Github State
 <br/>
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ma7moudk3&theme=onedark" />
+  <img align="center" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ma7moudk3&theme=onedark" />
 <br/>
+  <img align="center" alt="https://github-readme-stats.vercel.app/api/top-langs/?username=ma7moudk3&theme=onedark" />
+
 
 <!--
 **ma7moudk3/ma7moudk3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
