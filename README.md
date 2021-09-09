@@ -1,4 +1,4 @@
-# Hi there Im Mahmoud 👋
+# Hi , I'm Mahmoud 👋
 
 <p><a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/41232970/116540063-56fe7200-a8f2-11eb-83cb-a7537363da94.gif">
   <img align="center" src="https://cdn.dribbble.com/users/962321/screenshots/2788167/gif_13.gif" alt="Header" title="Header" style="max-width:100%;"></a></p>
