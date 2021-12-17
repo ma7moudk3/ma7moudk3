@@ -6,7 +6,7 @@
 <br/><br/>
 
 
-# I'm a Flutter developer 😎🖤
+# I'm a Flutter developer
 Mahmoud, flutter developerwith two years of experience, can analyze, design, and develop an app for both Android and IOS OS, he worked in many local companies as UX/UI designer,
 He is happy to help you out with completing your products and can apply the expertise I got to the following commercial projects, If you need a sleek cross-platform mobile app for both Android and iOS, invite him for an interview!
 <br/><br/>
