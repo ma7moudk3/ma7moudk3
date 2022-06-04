@@ -79,3 +79,4 @@ online stores , in addition to track your parcels in one step .
 ✧ DATABASES: SQLite, MySQL <br/>
 ✧ UX interactive prototyping <br/> 
 ✧ UI final graphic design production <br/>
+<img src="https://github.com/TekyaygilFethi/TekyaygilFethi/raw/output/github-contribution-grid-snake.svg" style="max-width: 100%;" />
