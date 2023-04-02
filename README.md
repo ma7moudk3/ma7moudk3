@@ -11,12 +11,6 @@ Mahmoud, flutter developer with two years of experience, can analyze, design, an
 He is happy to help you out with completing your products and can apply the expertise I got to the following commercial projects, If you need a sleek cross-platform mobile app for both Android and iOS, invite him for an interview!
 <br/><br/>
 
-
-### ✨ Github State
-<br/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ma7moudk3&theme=onedark" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ma7moudk3&theme=onedark" />
-
 ### 💫 Languages and skills:
 ✧ Java Programming Language </br>
 ✧ Dart Programming Language </br>
